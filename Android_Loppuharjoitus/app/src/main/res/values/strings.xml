@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Android_Weather</string>
+    <string name="get_weather">Get weather</string>
+    <string name="temperature">Temperature:</string>
+    <string name="wind_speed">Wind Speed:</string>
+    <string name="time">Time:</string>
+    <string name="wind_direction">Wind direction:</string>
+    <string name="canberra" translatable="false">Canberra</string>
+    <string name="new_york" translatable="false">New York</string>
+    <string name="abu_dhabi" translatable="false">Abu Dhabi</string>
+    <string name="stockholm">Stockholm</string>
+    <string name="choose_a_city">Choose a city!</string>
+</resources>

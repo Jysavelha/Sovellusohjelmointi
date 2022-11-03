@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Android_Sää</string>
+    <string name="get_weather">Hae sää</string>
+    <string name="temperature">Lämpötila:</string>
+    <string name="wind_speed">Tuulen nopeus:</string>
+    <string name="time">Aika:</string>
+    <string name="wind_direction">Tuulen suunta:</string>
+    <string name="stockholm">Tukholma</string>
+    <string name="choose_a_city">Valitse kaupunki!</string>
+</resources>
