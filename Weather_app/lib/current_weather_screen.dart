@@ -16,7 +16,7 @@ class _CurrentWeatherScreenState extends State<CurrentWeatherScreen> {
 
   void fetchWeatherData() async {
     Uri uri = Uri.parse(
-        'https://api.openweathermap.org/data/2.5/weather?q=Tampere&units=metric&appid=dd2323aadd445c33c32787ef492f4e02');
+        'https://api.openweathermap.org/data/2.5/weather?q=Tampere&units=metric&appid=[API_KEY');
     var response = await http.get(uri);
     if (response.statusCode == 200) {
       var weatherData = json.decode(response.body);
